@@ -1,0 +1,68 @@
+body {
+
+    margin: 0;
+
+}
+
+.cabecalho {
+
+    background-color: #FAF9F6;
+    padding: 30px;
+    text-align: right;
+
+
+}
+
+.logo {
+
+    display: inline-block;
+    margin-right: 280px;
+    font-size: 30px;
+
+}
+
+a {
+
+    text-decoration: underline;
+    color: black;
+    font-size: 20px;
+    margin-right: 70px;
+
+}
+
+a:hover {
+
+    color: rgb(124, 124, 253);    
+
+}
+
+.diapais {
+
+    background-color: rgb(212, 212, 212);
+    text-align: center;
+    padding: 8px;
+    font-size: 18px;
+
+}
+
+.gift {
+
+    width: 30px;
+    padding-top: 10px;
+
+}
+
+.div-model {
+
+    text-align: center;
+    background-color: #FAF9F6;
+
+}
+
+.modelo {
+
+    width: 50%;
+    border-color: rgb(124, 124, 253);
+    border-style: solid;
+
+}
